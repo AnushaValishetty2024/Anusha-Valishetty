@@ -67,9 +67,9 @@ Features:
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaValishetty2024&show_icons=true)
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaValishetty2024&show_icons=true&theme=default)
 ## Contact
 Email: nallapuanusha917@gmail.com  
 LinkedIn: (https://www.linkedin.com/in/anushavalishetty/) 
